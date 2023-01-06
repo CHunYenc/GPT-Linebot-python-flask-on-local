@@ -86,9 +86,9 @@ pip install -r requirements.txt
 
 ```dotenv
 # 必填
-LINE_CHANNEL_ACCESS_TOKEN = ??
-LINE_CHANNEL_SECRET = ??
-OPENAI_API_KEY = ??
+LINE_CHANNEL_ACCESS_TOKEN = ?? # 貼上 LINE Bot 的 ACCESS_TOKEN
+LINE_CHANNEL_SECRET = ?? # 貼上 LINE Bot 的 SECRET
+OPENAI_API_KEY = ?? # 貼上 openAI 的 KEY
 
 # 選填
 # OPENAI_MODEL = ??
